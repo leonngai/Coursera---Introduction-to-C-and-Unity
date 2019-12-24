@@ -1,0 +1,5 @@
+/Users/ngai/Projects/ProgrammingAssignment1/ProgrammingAssignment1/bin/Debug/ProgrammingAssignment1.exe
+/Users/ngai/Projects/ProgrammingAssignment1/ProgrammingAssignment1/bin/Debug/ProgrammingAssignment1.pdb
+/Users/ngai/Projects/ProgrammingAssignment1/ProgrammingAssignment1/obj/anycpu/Debug/ProgrammingAssignment1.csprojAssemblyReference.cache
+/Users/ngai/Projects/ProgrammingAssignment1/ProgrammingAssignment1/obj/anycpu/Debug/ProgrammingAssignment1.exe
+/Users/ngai/Projects/ProgrammingAssignment1/ProgrammingAssignment1/obj/anycpu/Debug/ProgrammingAssignment1.pdb
